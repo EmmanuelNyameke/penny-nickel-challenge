@@ -1,0 +1,17 @@
+C:\Users\HELLO\Source\Repos\PennyNickelChallenge\bin\Debug\net8.0-windows\PennyNickelChallenge.exe
+C:\Users\HELLO\Source\Repos\PennyNickelChallenge\bin\Debug\net8.0-windows\PennyNickelChallenge.deps.json
+C:\Users\HELLO\Source\Repos\PennyNickelChallenge\bin\Debug\net8.0-windows\PennyNickelChallenge.runtimeconfig.json
+C:\Users\HELLO\Source\Repos\PennyNickelChallenge\bin\Debug\net8.0-windows\PennyNickelChallenge.dll
+C:\Users\HELLO\Source\Repos\PennyNickelChallenge\bin\Debug\net8.0-windows\PennyNickelChallenge.pdb
+C:\Users\HELLO\Source\Repos\PennyNickelChallenge\obj\Debug\net8.0-windows\PennyNickelChallenge.frmPenNick.resources
+C:\Users\HELLO\Source\Repos\PennyNickelChallenge\obj\Debug\net8.0-windows\PennyNickelChallenge.Resources.resources
+C:\Users\HELLO\Source\Repos\PennyNickelChallenge\obj\Debug\net8.0-windows\PennyNickelChallenge.vbproj.GenerateResource.cache
+C:\Users\HELLO\Source\Repos\PennyNickelChallenge\obj\Debug\net8.0-windows\PennyNickelChallenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HELLO\Source\Repos\PennyNickelChallenge\obj\Debug\net8.0-windows\PennyNickelChallenge.AssemblyInfoInputs.cache
+C:\Users\HELLO\Source\Repos\PennyNickelChallenge\obj\Debug\net8.0-windows\PennyNickelChallenge.AssemblyInfo.vb
+C:\Users\HELLO\Source\Repos\PennyNickelChallenge\obj\Debug\net8.0-windows\PennyNickelChallenge.vbproj.CoreCompileInputs.cache
+C:\Users\HELLO\Source\Repos\PennyNickelChallenge\obj\Debug\net8.0-windows\PennyNickelChallenge.dll
+C:\Users\HELLO\Source\Repos\PennyNickelChallenge\obj\Debug\net8.0-windows\refint\PennyNickelChallenge.dll
+C:\Users\HELLO\Source\Repos\PennyNickelChallenge\obj\Debug\net8.0-windows\PennyNickelChallenge.pdb
+C:\Users\HELLO\Source\Repos\PennyNickelChallenge\obj\Debug\net8.0-windows\PennyNickelChallenge.genruntimeconfig.cache
+C:\Users\HELLO\Source\Repos\PennyNickelChallenge\obj\Debug\net8.0-windows\ref\PennyNickelChallenge.dll
